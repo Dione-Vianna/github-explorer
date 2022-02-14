@@ -18,8 +18,8 @@
 
 - [x] Primeiro componente React
 - [x] Propriedades no React
-- [ ] Estados do componente
-- [ ] A imutabilidade ni React
+- [x] Estados do componente
+- [x] Imutabilidade no React
 - [ ] Fast Refresh no Webpack
 
 ## Chamadas HTTP
