@@ -24,7 +24,7 @@
 
 ## Chamadas HTTP
 
-- [ ] Estilização da listagem
+- [x] Estilização da listagem
 - [ ] Utilizando o useEffect
 - [ ] Listando repositórios
 
