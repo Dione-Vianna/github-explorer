@@ -26,7 +26,7 @@
 
 - [x] Estilização da listagem
 - [x] Utilizando o useEffect
-- [ ] Listando repositórios
+- [x] Listando repositórios
 
 ## Usando TypeScript
 
