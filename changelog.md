@@ -20,7 +20,7 @@
 - [x] Propriedades no React
 - [x] Estados do componente
 - [x] Imutabilidade no React
-- [ ] Fast Refresh no Webpack
+- [x] Fast Refresh no Webpack
 
 ## Chamadas HTTP
 
