@@ -31,7 +31,7 @@
 ## Usando TypeScript
 
 - [x] Fundamentos do TypeScript
-- [ ] TypeScript no ReactJS
+- [x] TypeScript no ReactJS
 - [ ] Componentes com TypeScript
 
 ## Finalizando aplicação
