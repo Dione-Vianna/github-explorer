@@ -36,5 +36,5 @@
 
 ## Finalizando aplicação
 
-- [ ] Utilizando React DevTools
+- [x] Utilizando React DevTools
 - [ ] Finalização do módulo
